@@ -1,7 +1,7 @@
 {
   "name": "fivestarportfolio",
   "description": "vacation rental website.",
-  "homepage": "https://cryptopotluck.github.io/hotelmarkup",
+  "homepage": "https://cryptopotluck.github.io/hoteldemo",
   "author": "Austin Kiese",
   "license": "Crypto Potluck <https://cryptopotluck.github.io/portfolio2/index.html>",
   "devDependencies": {
